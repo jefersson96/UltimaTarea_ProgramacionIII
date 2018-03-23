@@ -36,7 +36,7 @@ void consultarHerramientas()
 		return;
 	}
 	archivoIn.seekg(0, ios::beg);
-	cout << "\n\n *** C O N S U L T A  D E  E M P L E A D O S *** \n\n ";
+	cout << "\n\n *** C O N S U L T A  D E  H E R R A M I E N T A S *** \n\n ";
 	herramienta actual;
 
 	archivoIn.read(reinterpret_cast< char *>(&actual), sizeof(herramienta));
@@ -148,7 +148,7 @@ int cantidadDeRegistrosAgregados() {
 		
 	}
 	archivoIn.seekg(0, ios::beg);
-	//cout << "\n\n *** C O N S U L T A  D E  E M P L E A D O S *** \n\n ";
+	//cout << "\n\n *** C O N S U L T A  D E  H E R R A M I E N T A S *** \n\n ";
 	herramienta actual;
 
 	archivoIn.read(reinterpret_cast< char *>(&actual), sizeof(herramienta));
