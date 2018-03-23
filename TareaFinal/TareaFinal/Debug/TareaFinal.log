@@ -1,0 +1,15 @@
+﻿  herramienta.cpp
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(69): warning C4101: 'nuevCodigo': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(82): warning C4101: 'nueva': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(72): warning C4101: 'nombre': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(71): warning C4101: 'nuevPrecio': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(70): warning C4101: 'nuevCantidad': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(200): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(236): warning C4101: 'nueva': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(285): warning C4101: 'nuevCodigo': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(298): warning C4101: 'nueva': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(288): warning C4101: 'nombre': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(287): warning C4101: 'nuevPrecio': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(286): warning C4101: 'nuevCantidad': variable local sin referencia
+c:\users\jefersson\source\repos\tareafinal\tareafinal\herramienta.cpp(345): warning C4101: 'nueva': variable local sin referencia
+  TareaFinal.vcxproj -> C:\Users\jefersson\source\repos\TareaFinal\Debug\TareaFinal.exe
